@@ -7,7 +7,7 @@ This repository contains a collection of drivers for various peripherals commonl
 - **std_types.h**: Standard data types.
 - **common_Macros.h**: Common macros for bit manipulation and register access.
 - **gpio.h**: GPIO functions and definitions.
-- *Additional drivers*: Descriptions of any additional drivers included in the repository.
+- *Additional drivers*: Descriptions of any additional drivers included in the repository. (will add later)
 
 ## Getting Started
 
